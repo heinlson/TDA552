@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36f8f4f4-2302-48a5-a424-9ce785b16a62" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/IVehicleModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/VehicleFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/AbstractIVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="285" column="30" selection-start-line="285" selection-start-column="30" selection-end-line="285" selection-end-column="30" />
+              <folding>
+                <element signature="e#2254#2255#0" expanded="true" />
+                <element signature="e#2296#2297#0" expanded="true" />
+                <element signature="e#7295#7296#0" expanded="true" />
+                <element signature="e#7331#7332#0" expanded="true" />
+                <element signature="e#7381#7382#0" expanded="true" />
+                <element signature="e#7417#7418#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controller/PositionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-519">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/carModel/Juggernaut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/carModel/AbstractCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/IVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/VehicleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3179">
+              <caret line="219" column="24" selection-start-line="219" selection-start-column="24" selection-end-line="219" selection-end-column="24" />
+              <folding>
+                <element signature="e#5102#5103#0" expanded="true" />
+                <element signature="e#5131#5132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Application.java" />
+        <option value="$PROJECT_DIR$/src/adapter/VehicleFactory.java" />
+        <option value="$PROJECT_DIR$/src/model/Movable.java" />
+        <option value="$PROJECT_DIR$/src/model/HasCargo.java" />
+        <option value="$PROJECT_DIR$/src/model/HasFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/model/Ramp.java" />
+        <option value="$PROJECT_DIR$/src/model/carModel/HasTurbo.java" />
+        <option value="$PROJECT_DIR$/src/model/carModel/Saab95.java" />
+        <option value="$PROJECT_DIR$/src/model/carModel/AbstractCar.java" />
+        <option value="$PROJECT_DIR$/src/model/carModel/Volvo240.java" />
+        <option value="$PROJECT_DIR$/src/model/carModel/Scania.java" />
+        <option value="$PROJECT_DIR$/src/model/carModel/Juggernaut.java" />
+        <option value="$PROJECT_DIR$/src/model/CarFerry.java" />
+        <option value="$PROJECT_DIR$/src/model/Point.java" />
+        <option value="$PROJECT_DIR$/src/view/VehicleView.java" />
+        <option value="$PROJECT_DIR$/src/model/VehicleFactory.java" />
+        <option value="$PROJECT_DIR$/src/model/IVehicleModel.java" />
+        <option value="$PROJECT_DIR$/src/model/AbstractIVehicle.java" />
+        <option value="$PROJECT_DIR$/src/model/IVehicle.java" />
+        <option value="$PROJECT_DIR$/src/controller/VehicleController.java" />
+        <option value="$PROJECT_DIR$/src/controller/PositionHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="495" />
+    <option name="y" value="-35" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TDA552 - Laboration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDA552 - Laboration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDA552 - Laboration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDA552 - Laboration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDA552 - Laboration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDA552 - Laboration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544725462569" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/tda522.2/TDA552 - Laboration" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Lab tda552" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36f8f4f4-2302-48a5-a424-9ce785b16a62" name="Default Changelist" comment="" />
+      <created>1544462344316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544462344316</updated>
+      <workItem from="1544462345573" duration="215000" />
+      <workItem from="1544462858166" duration="367000" />
+      <workItem from="1544463232551" duration="3000" />
+      <workItem from="1544463303177" duration="98000" />
+      <workItem from="1544463569799" duration="5660000" />
+      <workItem from="1544567338548" duration="593000" />
+      <workItem from="1544687916368" duration="3826000" />
+      <workItem from="1544723637234" duration="1842000" />
+    </task>
+    <task id="LOCAL-00001" summary="?">
+      <created>1544462917116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544462917116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="?">
+      <created>1544463197119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544463197119</updated>
+    </task>
+    <task id="LOCAL-00003" summary="?">
+      <created>1544468160776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544468160776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="?">
+      <created>1544468299669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544468299669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12604000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17785235" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3324397" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.42351454" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32707775" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="?" />
+    <option name="LAST_COMMIT_MESSAGE" value="?" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="588.3333333333333" y="168.0">model.AbstractIVehicle</node>
+            <node x="865.6409820252211" y="416.0">model.Ramp</node>
+            <node x="687.6000270562771" y="515.0">model.carModel.Juggernaut</node>
+            <node x="127.75" y="0.0">model.Movable</node>
+            <node x="87.11822416713733" y="515.0">controller.VehicleController</node>
+            <node x="453.5" y="416.0">model.carModel.Scania</node>
+            <node x="899.5655455957086" y="515.0">model.CarFerry</node>
+            <node x="56.5" y="168.0">model.IVehicleModel</node>
+            <node x="586.4364365706756" y="267.0">model.carModel.AbstractCar</node>
+            <node x="339.5" y="416.0">model.carModel.Saab95</node>
+            <node x="570.5576486918878" y="416.0">model.carModel.Volvo240</node>
+            <node x="365.55572416713727" y="515.0">model.VehicleFactory</node>
+            <node x="209.5" y="267.0">model.carModel.HasTurbo</node>
+            <node x="0.0" y="267.0">view.DrawPanel</node>
+            <node x="436.60310323734234" y="267.0">model.HasFlatbed</node>
+            <node x="736.6409820252211" y="416.0">model.HasCargo</node>
+            <node x="13.625" y="416.0">view.VehicleView</node>
+            <node x="129.75" y="79.0">model.IVehicle</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="model.IVehicle" target="model.Movable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.VehicleFactory" target="model.carModel.Volvo240">
+              <point x="51.75" y="-14.5" />
+              <point x="486.30572416713727" y="495.0" />
+              <point x="624.0576486918878" y="495.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.VehicleController" target="view.VehicleView">
+              <point x="-43.714285714285666" y="-14.5" />
+              <point x="119.90393845285166" y="495.0" />
+              <point x="104.375" y="495.0" />
+              <point x="30.25" y="14.5" />
+            </edge>
+            <edge source="model.CarFerry" target="model.carModel.AbstractCar">
+              <point x="0.0" y="-14.5" />
+              <point x="949.5655455957086" y="465.0" />
+              <point x="971.4445534537927" y="465.0" />
+              <point x="971.4445534537927" y="326.0" />
+              <point x="691.8000729343121" y="326.0" />
+              <point x="44.363636363636374" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Saab95" target="model.AbstractIVehicle">
+              <point x="-11.75" y="-14.5" />
+              <point x="374.75" y="217.0" />
+              <point x="597.5833333333333" y="217.0" />
+              <point x="-64.75" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Juggernaut" target="model.HasCargo">
+              <point x="17.0" y="-14.5" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+            <edge source="view.DrawPanel" target="model.IVehicleModel">
+              <point x="0.0" y="-14.5" />
+              <point x="56.0" y="247.0" />
+              <point x="69.70000000000005" y="247.0" />
+              <point x="-52.799999999999955" y="14.5" />
+            </edge>
+            <edge source="controller.VehicleController" target="model.HasFlatbed">
+              <point x="65.57142857142856" y="-14.5" />
+              <point x="229.18965273856588" y="495.0" />
+              <point x="275.4307241671373" y="495.0" />
+              <point x="275.4307241671373" y="346.0" />
+              <point x="456.10310323734234" y="346.0" />
+              <point x="-39.0" y="14.5" />
+            </edge>
+            <edge source="view.VehicleView" target="model.IVehicleModel">
+              <point x="45.375" y="-14.5" />
+              <point x="119.5" y="396.0" />
+              <point x="122.5" y="396.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Saab95" target="model.carModel.AbstractCar">
+              <point x="35.25" y="-14.5" />
+              <point x="421.75" y="366.0" />
+              <point x="603.0728002070393" y="366.0" />
+              <point x="-44.363636363636374" y="14.5" />
+            </edge>
+            <edge source="controller.VehicleController" target="model.IVehicleModel">
+              <point x="-21.857142857142776" y="-14.5" />
+              <point x="141.76108130999455" y="485.0" />
+              <point x="159.5625" y="485.0" />
+              <point x="159.5625" y="247.0" />
+              <point x="148.89999999999998" y="247.0" />
+              <point x="26.399999999999977" y="14.5" />
+            </edge>
+            <edge source="view.DrawPanel" target="model.IVehicle">
+              <point x="-37.33333333333337" y="-14.5" />
+              <point x="18.66666666666663" y="128.0" />
+              <point x="137.66666666666663" y="128.0" />
+              <point x="-39.58333333333337" y="14.5" />
+            </edge>
+            <edge source="model.VehicleFactory" target="model.carModel.Scania">
+              <point x="17.25" y="-14.5" />
+              <point x="451.80572416713727" y="485.0" />
+              <point x="497.5" y="485.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Juggernaut" target="model.carModel.AbstractCar">
+              <point x="-17.0" y="-14.5" />
+              <point x="730.1000270562771" y="485.0" />
+              <point x="715.1409820252211" y="485.0" />
+              <point x="715.1409820252211" y="366.0" />
+              <point x="680.709163843403" y="366.0" />
+              <point x="33.27272727272731" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Scania" target="model.HasFlatbed">
+              <point x="-11.000000000000057" y="-14.5" />
+              <point x="486.49999999999994" y="346.0" />
+              <point x="495.10310323734234" y="346.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.AbstractIVehicle" target="model.IVehicle">
+              <point x="0.0" y="-14.5" />
+              <point x="662.3333333333333" y="128.0" />
+              <point x="216.83333333333337" y="128.0" />
+              <point x="39.58333333333337" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Saab95" target="model.carModel.HasTurbo">
+              <point x="-35.25" y="-14.5" />
+              <point x="351.25" y="336.0" />
+              <point x="291.25" y="336.0" />
+              <point x="27.25" y="14.5" />
+            </edge>
+            <edge source="model.CarFerry" target="model.HasCargo">
+              <point x="-42.85714285714286" y="-14.5" />
+              <point x="906.7084027385657" y="475.0" />
+              <point x="818.3909820252211" y="475.0" />
+              <point x="27.25" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Volvo240" target="model.carModel.AbstractCar">
+              <point x="35.666666666666686" y="-14.5" />
+              <point x="659.7243153585545" y="396.0" />
+              <point x="647.4364365706756" y="396.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="view.VehicleView" target="view.DrawPanel">
+              <point x="15.125" y="-14.5" />
+              <point x="89.25" y="396.0" />
+              <point x="93.33333333333337" y="396.0" />
+              <point x="37.33333333333337" y="14.5" />
+            </edge>
+            <edge source="model.VehicleFactory" target="model.IVehicle">
+              <point x="-51.75" y="-14.5" />
+              <point x="382.80572416713727" y="495.0" />
+              <point x="329.0" y="495.0" />
+              <point x="329.0" y="138.0" />
+              <point x="201.0" y="138.0" />
+              <point x="23.75" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Volvo240" target="model.AbstractIVehicle">
+              <point x="-35.666666666666686" y="-14.5" />
+              <point x="588.3909820252211" y="346.0" />
+              <point x="575.9364365706757" y="346.0" />
+              <point x="575.9364365706757" y="237.0" />
+              <point x="634.5833333333333" y="237.0" />
+              <point x="-27.75" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Scania" target="model.carModel.AbstractCar">
+              <point x="10.999999999999943" y="-14.5" />
+              <point x="508.49999999999994" y="376.0" />
+              <point x="614.1637092979483" y="376.0" />
+              <point x="-33.27272727272725" y="14.5" />
+            </edge>
+            <edge source="controller.VehicleController" target="model.IVehicle">
+              <point x="21.85714285714289" y="-14.5" />
+              <point x="185.47536702428022" y="495.0" />
+              <point x="199.0" y="495.0" />
+              <point x="199.0" y="148.0" />
+              <point x="185.16666666666663" y="148.0" />
+              <point x="7.916666666666629" y="14.5" />
+            </edge>
+            <edge source="controller.VehicleController" target="model.carModel.HasTurbo">
+              <point x="43.71428571428578" y="-14.5" />
+              <point x="207.3325098814231" y="485.0" />
+              <point x="236.74999999999997" y="485.0" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Juggernaut" target="model.AbstractIVehicle">
+              <point x="0.0" y="-14.5" />
+              <point x="747.1000270562771" y="475.0" />
+              <point x="726.1409820252211" y="475.0" />
+              <point x="726.1409820252211" y="247.0" />
+              <point x="690.0833333333333" y="247.0" />
+              <point x="27.75" y="14.5" />
+            </edge>
+            <edge source="model.CarFerry" target="model.AbstractIVehicle">
+              <point x="28.571428571428555" y="-14.5" />
+              <point x="978.1369741671372" y="485.0" />
+              <point x="993.4445534537927" y="485.0" />
+              <point x="993.4445534537927" y="237.0" />
+              <point x="708.5833333333333" y="237.0" />
+              <point x="46.25" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Scania" target="model.AbstractIVehicle">
+              <point x="-33.00000000000006" y="-14.5" />
+              <point x="464.49999999999994" y="336.0" />
+              <point x="410.22810323734234" y="336.0" />
+              <point x="410.22810323734234" y="227.0" />
+              <point x="616.0833333333333" y="227.0" />
+              <point x="-46.25" y="14.5" />
+            </edge>
+            <edge source="model.IVehicleModel" target="model.IVehicle">
+              <point x="-33.0" y="-14.5" />
+              <point x="89.5" y="138.0" />
+              <point x="153.5" y="138.0" />
+              <point x="-23.75" y="14.5" />
+            </edge>
+            <edge source="model.carModel.AbstractCar" target="model.AbstractIVehicle">
+              <point x="30.5" y="-14.5" />
+              <point x="677.9364365706756" y="247.0" />
+              <point x="671.5833333333333" y="247.0" />
+              <point x="9.25" y="14.5" />
+            </edge>
+            <edge source="model.CarFerry" target="model.Ramp">
+              <point x="-28.57142857142857" y="-14.5" />
+              <point x="920.9941170242801" y="495.0" />
+              <point x="916.8909820252211" y="495.0" />
+              <point x="10.25" y="14.5" />
+            </edge>
+            <edge source="model.VehicleFactory" target="model.carModel.Saab95">
+              <point x="-17.25" y="-14.5" />
+              <point x="417.30572416713727" y="485.0" />
+              <point x="386.5" y="485.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.Ramp" target="model.HasFlatbed">
+              <point x="0.0" y="-14.5" />
+              <point x="906.6409820252211" y="336.0" />
+              <point x="534.1031032373423" y="336.0" />
+              <point x="39.0" y="14.5" />
+            </edge>
+            <edge source="model.carModel.Juggernaut" target="model.Ramp">
+              <point x="51.0" y="-14.5" />
+              <point x="798.1000270562771" y="495.0" />
+              <point x="896.3909820252211" y="495.0" />
+              <point x="-10.25" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="495.0" y="311.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/carModel/Volvo240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/carModel/HasTurbo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/carModel/Saab95.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/HasFlatbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/carModel/Scania.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/HasCargo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Ramp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/CarFerry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/IVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/VehicleWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/VehicleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Movable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/VehicleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="156" column="60" selection-start-line="156" selection-start-column="60" selection-end-line="156" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/VehicleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/carModel/Juggernaut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/carModel/AbstractCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/IVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/AbstractIVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="285" column="30" selection-start-line="285" selection-start-column="30" selection-end-line="285" selection-end-column="30" />
+          <folding>
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+            <element signature="e#7295#7296#0" expanded="true" />
+            <element signature="e#7331#7332#0" expanded="true" />
+            <element signature="e#7381#7382#0" expanded="true" />
+            <element signature="e#7417#7418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/IVehicleModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/VehicleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="219" column="24" selection-start-line="219" selection-start-column="24" selection-end-line="219" selection-end-column="24" />
+          <folding>
+            <element signature="e#5102#5103#0" expanded="true" />
+            <element signature="e#5131#5132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/PositionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TDA552 - Laboration</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
